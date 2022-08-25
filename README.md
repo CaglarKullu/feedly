@@ -16,4 +16,8 @@
 ---
 ### Images
 
-<img src="https://user-images.githubusercontent.com/97615706/186720013-f7229812-c0e0-4655-8dfd-c4fb83d4ce5d.png" width="150"/>
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/97615706/186720013-f7229812-c0e0-4655-8dfd-c4fb83d4ce5d.png" width="200" />
+  <img src="https://user-images.githubusercontent.com/97615706/186721562-f26361a2-62ff-49ce-a51a-a06df6e64928.png" width="200" /> 
+  <img src="https://user-images.githubusercontent.com/97615706/186721636-38bfe955-ab4b-4730-a0ec-3833c32abd20.png" width="200" />
+</p>
