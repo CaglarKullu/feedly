@@ -11,4 +11,4 @@
 #### -coding, I worked with a designer for branding elements of the app.
 ---
 #### You can click to the icon below to go to my app on Google Play
-(https://user-images.githubusercontent.com/97615706/186714357-d2154cbf-53e0-4132-9b95-e0768dd5066c.png" alt="CSS" width="100" height="100")
+[![Feedly](https://user-images.githubusercontent.com/97615706/186714357-d2154cbf-53e0-4132-9b95-e0768dd5066c.png)](https://play.google.com/store/apps/details?id=com.ctksoftware.feedly)
